@@ -1,0 +1,225 @@
+id,category,prompt,obj1,bbox1,obj2,bbox2,obj3,bbox3,obj4,bbox4
+000,missing_elements,A rose,A rose,"175,108,347,430",,,,,,
+001,missing_elements,An oak,An oak,"95,66,419,434",,,,,,
+002,missing_elements,A beetle,A beetle,"179,275,449,447",,,,,,
+003,missing_elements,A skyscraper,A skyscraper,"42,37,221,469",,,,,,
+004,missing_elements,A tree,A tree,"41,69,214,466",,,,,,
+005,missing_elements,A baby,A baby,"276,204,468,473",,,,,,
+006,missing_elements,A bed,A bed,"80,304,450,457",,,,,,
+007,missing_elements,A lamp,A lamp,"179,56,346,290",,,,,,
+008,missing_elements,A spider and a clock,A spider,"314,382,442,471",a clock,"63,45,214,215",,,,
+009,missing_elements,A television and a caterpillar,A television,"72,61,453,266",a caterpillar,"150,356,408,438",,,,
+010,missing_elements,A porcupine and a raccoon,A porcupine,"53,265,215,455",a raccoon,"286,264,446,455",,,,
+011,missing_elements,A chair and a fox,A chair,"165,268,335,453",a fox,"170,81,330,262",,,,
+012,missing_elements,A train and a cloud,A train,"47,309,488,489",a cloud,"307,31,476,170",,,,
+013,missing_elements,A pepper and a fox,A pepper,"52,314,205,453",a fox,"284,132,465,456",,,,
+014,missing_elements,A boy and a wolf,A boy,"39,72,239,454",a wolf,"295,227,437,454",,,,
+015,missing_elements,An orange and an airplane,An orange,"61,351,188,456",an airplane,"248,50,497,193",,,,
+016,missing_elements,"A bicycle, a house and a clock",A bicycle,"37,370,208,465",a house,"251,62,499,470", a clock,"39,71,124,154",,
+017,missing_elements,"A telephone, a shark and a worm",A telephone,"46,346,163,451",a shark,"185,194,355,453",a worm,"375,380,495,452",,
+018,missing_elements,"A pear, a bear and a beaver",A pear,"43,389,127,468",a bear,"138,79,348,466",a beaver,"371,235,494,471",,
+019,missing_elements,"A snake, a couch and a porcupine",A snake,"43,234,335,261",a couch,"17,263,495,488",a porcupine,"363,141,486,260",,
+020,missing_elements,"A mountain, a hamster and a bicycle",A mountain,"23,33,483,252",a hamster,"49,387,159,472",a bicycle,"204,269,468,482",,
+021,missing_elements,"A table, a telephone and a tulip",A table,"23,237,491,481",a telephone,"37,139,144,235",a tulip,"312,39,379,228",,
+022,missing_elements,"A caterpillar, a table and a beaver",A caterpillar,"46,130,247,160",a table,"20,161,477,478",a beaver,"313,34,425,157",,
+023,missing_elements,"A shark, an elephant and a rocket",A shark,"35,27,230,184",an elephant,"63,211,461,474",a rocket,"359,18,467,174",,
+024,missing_elements,"A leopard, a girl, a bee and a salmon",A leopard,"18,16,130,217",a girl,"353,156,486,471",a bee,"206,110,307,241",a salmon,"47,326,292,465"
+025,missing_elements,"A camel, a pine, a television and a bridge",A camel,"29,347,235,472",a pine,"389,127,496,493",a television,"160,225,349,336",a bridge,"32,20,291,171"
+026,missing_elements,"A cloud, a raccoon, a mushroom and a couch",A cloud,"24,28,253,163",a raccoon,"26,313,153,487",a mushroom,"192,408,273,484",a couch,"187,210,491,369"
+027,missing_elements,"A boy, a butterfly, a trout and a bridge",A boy,"22,29,177,215",a butterfly,"273,37,379,128",a trout,"21,305,164,474",a bridge,"182,241,500,437"
+028,missing_elements,"A spider, a baby, a lizard and a train",A spider,"33,406,136,483",a baby,"152,249,333,480",a lizard,"369,412,464,478",a train,"11,34,497,201"
+029,missing_elements,"A cup, an apple, a couch and a girl",A cup,"43,144,157,309",an apple,"195,215,291,304",a couch,"25,292,278,463",a girl,"327,89,474,469"
+030,missing_elements,"A leopard, a bridge, a snail and a table",A leopard,"45,246,155,467",a bridge,"32,31,477,218",a snail,"285,259,399,339",a table,"485,474,485,474"
+031,missing_elements,"A pepper, a whale, a leopard and a tiger",A pepper,"31,359,104,477",a whale,"37,41,488,257",a leopard,"153,285,276,471",a tiger,"317,287,457,472"
+032,unconventional_layout,A butterfly below a cockroach,A butterfly,"84,279,425,455",a cockroach,"183,150,345,250",,,,
+033,unconventional_layout,A bottle near a telephone,A bottle,"46,111,204,464",a telephone,"224,360,397,464",,,,
+034,unconventional_layout,A mushroom near a pepper,A mushroom,"76,316,254,477",a pepper,"268,313,471,480",,,,
+035,unconventional_layout,A kangaroo below a whale,A kangaroo,"149,350,323,479",a whale,"119,169,408,315",,,,
+036,unconventional_layout,A tree on a bridge,A tree,"195,144,275,302",a bridge,"25,310,482,474",,,,
+037,unconventional_layout,A leopard above an otter,A leopard,"179,62,329,276",an otter,"137,292,449,462",,,,
+038,unconventional_layout,A house far from the sea,A house,"30,274,154,456",the sea,"270,55,491,175",,,,
+039,unconventional_layout,A man near a palm,A man,"50,105,201,458",a palm,"218,11,487,462",,,,
+040,unconventional_layout,A boy to the left of a bottle,A boy,"66,107,195,441",a bottle,"222,326,280,439",,,,
+041,unconventional_layout,A fox near a wolf,A fox,"325,62,458,227",a wolf,"146,68,312,365",,,,
+042,unconventional_layout,An apple near a squirrel,An apple,"284,385,385,469",a squirrel,"167,258,266,465",,,,
+043,unconventional_layout,A lion under a cloud,A lion,"82,301,451,468",a cloud,"269,27,481,157",,,,
+044,unconventional_layout,A kangaroo on a bed,A kangaroo,"162,111,364,357",a bed,"32,356,485,487",,,,
+045,unconventional_layout,A cockroach below a clock,A cockroach,"104,349,394,460",a clock,"371,47,497,200",,,,
+046,unconventional_layout,A camel to the right of a dog,A camel,"294,191,487,469",a dog,"55,309,238,467",,,,
+047,unconventional_layout,An elephant on a skyscraper,An elephant,"191,37,302,152",a skyscraper,"117,157,349,496",,,,
+048,unconventional_layout,A mushroom near a couch and a wardrobe to the left of a squirrel,A mushroom,"280,140,355,191",a couch,"13,22,270,199",a wardrobe,"15,222,268,475",a squirrel,"304,404,386,471"
+049,unconventional_layout,A beaver near a tiger and a dog near a cat,A beaver,"23,309,168,464",a tiger,"103,101,242,281",a dog,"220,305,387,468",a cat,"337,103,476,281"
+050,unconventional_layout,A shark far from a whale and a salmon next to a dolphin,A shark,"25,394,213,495",a whale,"297,20,479,125",a salmon,"59,210,227,311",a dolphin,"237,212,411,311"
+051,unconventional_layout,A leopard on the right of a boy and a beetle next to a cat,A leopard,"328,257,471,479",a boy,"217,289,310,478",a beetle,"22,59,101,224",a cat,"129,61,222,226"
+052,unconventional_layout,A tractor on a road and an apple to the right of a lamp,A tractor,"87,169,359,347",a road,"23,353,477,481",an apple,"346,39,431,103",a lamp,"266,17,330,109"
+053,unconventional_layout,A dinosaur far from a camel and a leopard below an oak,A dinosaur,"40,334,137,485",a camel,"404,38,496,167",a leopard,"192,331,302,483",an oak,"40,37,381,305"
+054,unconventional_layout,A table to the left of a house and a keyboard to the right of a frog,A table,"58,401,227,471",a house,"258,163,482,477",a keyboard,"289,34,456,108",a frog,"75,293,192,370"
+055,unconventional_layout,An orchid below a chair and a lamp on a couch,An orchid,"162,357,273,491",a chair,"46,142,204,323",a lamp,"358,138,434,203",a couch,"245,222,493,347"
+056,unconventional_layout,A mouse on a bridge and a tractor under an oak,A mouse,"371,110,468,168",a bridge,"19,180,496,286",a tractor,"60,409,208,488",an oak,"229,312,494,489"
+057,unconventional_layout,A porcupine on a tulip and a cow to the right of a dog,A porcupine,"71,107,181,219",a tulip,"34,233,205,496",a cow,"386,241,500,370",a dog,"253,291,358,468"
+058,unconventional_layout,A fish near a can and a telephone next to a cup,A fish,"350,321,496,498",a can,"232,227,338,499",a telephone,"20,386,116,484",a cup,"131,384,215,487"
+059,unconventional_layout,A woman under a bed and an orchid next to a fox,A woman,"78,343,179,495",a bed,"21,190,293,329",an orchid,"269,374,368,482",a fox,"399,245,500,484"
+060,unconventional_layout,An airplane beside a rocket and a cloud over a cow,An airplane,"32,27,238,140",a rocket,"305,33,404,210",a cloud,"78,158,292,222",a cow,"227,352,459,486"
+061,unconventional_layout,A television on a couch and a lamp under a table,A television,"26,187,183,284",a couch,"13,294,352,490",a lamp,"316,196,411,253",a table,"184,41,474,171"
+062,unconventional_layout,A telephone under a table and a bed next to a couch,A telephone,"44,361,193,451",a table,"30,107,248,334",a bed,"231,364,467,457",a couch,"286,216,502,350"
+063,unconventional_layout,A clock to the right of a crocodile and a cow beside a seal,A clock,"336,63,486,237",a crocodile,"40,356,296,480",a cow,"38,186,175,298",a seal,"194,183,314,300"
+064,overlapping_bboxes,A beetle,A beetle,"94,321,384,444",,,,,,
+065,overlapping_bboxes,A fish,A fish,"62,285,356,438",,,,,,
+066,overlapping_bboxes,A wardrobe,A wardrobe,"99,106,463,465",,,,,,
+067,overlapping_bboxes,A spider,A spider,"48,326,265,487",,,,,,
+068,overlapping_bboxes,A road,A road,"6,154,506,502",,,,,,
+069,overlapping_bboxes,A woman,A woman,"36,55,257,504",,,,,,
+070,overlapping_bboxes,A truck,A truck,"88,91,440,425",,,,,,
+071,overlapping_bboxes,A can,A can,"346,249,494,478",,,,,,
+072,overlapping_bboxes,A car and a squirrel,A car,"89,109,454,449",a squirrel,"291,301,430,431",,,,
+073,overlapping_bboxes,A lizard and a turtle,A lizard,"99,172,433,439",a turtle,"193,105,489,347",,,,
+074,overlapping_bboxes,An oak and a lamp,An oak,"47,89,478,475",a lamp,"199,312,342,456",,,,
+075,overlapping_bboxes,A leopard and a trout,A leopard,"78,115,381,460",a trout,"268,280,483,490",,,,
+076,overlapping_bboxes,A beaver and a couch,A beaver,"168,144,346,305",a couch,"32,73,469,475",,,,
+077,overlapping_bboxes,A tractor and a snail,A tractor,"76,167,467,472",a snail,"322,330,456,453",,,,
+078,overlapping_bboxes,A boy and a mouse,A boy,"168,65,424,484",a mouse,"142,388,255,478",,,,
+079,overlapping_bboxes,A house and a girl,A house,"28,48,468,487",a girl,"279,314,364,458",,,,
+080,overlapping_bboxes,"A television, a fox and a tulip",A television,"27,79,486,315",a fox,"102,140,179,282",a tulip,"319,217,396,300",,
+081,overlapping_bboxes,"A keyboard, a spider and a whale",A keyboard,"44,320,484,473",a spider,"70,348,147,416",a whale,"398,333,473,387",,
+082,overlapping_bboxes,"An apple, a poppy and a couch",An apple,"81,252,224,431",a poppy,"183,220,317,331",a couch,"43,127,492,451",,
+083,overlapping_bboxes,"A sunflower, a camel and a palm",A sunflower,"71,233,192,422",a camel,"222,260,470,418",a palm,"37,33,489,475",,
+084,overlapping_bboxes,"A boy, a dog and a sunflower",A boy,"289,111,472,469",a dog,"190,374,385,475",a sunflower,"89,234,222,494",,
+085,overlapping_bboxes,"A rose, a frog and a cat",A rose,"94,214,167,465",a frog,"122,353,271,486",a cat,"239,315,405,498",,
+086,overlapping_bboxes,"A wolf, a man and a bowl",A wolf,"42,263,312,469",a man,"229,21,491,490",a bowl,"105,366,211,452",,
+087,overlapping_bboxes,"A motorcycle, a rocket and a butterfly",A motorcycle,"51,307,407,490",a rocket,"59,21,176,422",a butterfly,"327,223,480,352",,
+088,overlapping_bboxes,"A television, a bee, a car and an elephant",A television,"20,90,478,454",a bee,"377,121,449,201",a car,"212,286,462,425",an elephant,"39,133,323,412"
+089,overlapping_bboxes,"A tulip, a palm, a tiger and a bus",A tulip,"67,316,168,452",a palm,"123,44,363,482",a tiger,"254,233,487,467",a bus,"28,177,504,492"
+090,overlapping_bboxes,"A pear, a tree, a mouse and a wardrobe",A pear,"57,374,161,486",a tree,"133,43,380,487",a mouse,"231,412,313,489",a wardrobe,"355,169,510,492"
+091,overlapping_bboxes,"A bus, a hamster, a fox and a clock",A bus,"8,166,506,392",a hamster,"28,370,103,440",a fox,"153,306,270,442",a clock,"365,423,473,487"
+092,overlapping_bboxes,"A rabbit, a camel, a salmon and a mouse",A rabbit,"358,341,491,482",a camel,"46,122,434,454",a salmon,"50,377,244,486",a mouse,"226,413,377,478"
+093,overlapping_bboxes,"A bridge, a car, a caterpillar and a frog",A bridge,"21,135,493,362",a car,"105,265,320,344",a caterpillar,"72,414,256,475",a frog,"231,438,336,511"
+094,overlapping_bboxes,"A cloud, a fish, a skyscraper and a squirrel",A cloud,"38,36,481,181",a fish,"57,373,313,479",a skyscraper,"307,14,488,488",a squirrel,"184,318,354,437"
+095,overlapping_bboxes,"A cat, a sunflower, a forest and a bicycle",A cat,"32,366,192,472",a sunflower,"189,280,287,485",a forest,"21,28,490,492",a bicycle,"258,365,481,482"
+096,small_bboxes,A bus,A bus,"247,393,399,485",,,,,,
+097,small_bboxes,A snake,A snake,"287,244,383,288",,,,,,
+098,small_bboxes,A bed,A bed,"251,402,404,484",,,,,,
+099,small_bboxes,An orchid,An orchid,"42,309,102,409",,,,,,
+100,small_bboxes,A woman,A woman,"400,49,475,139",,,,,,
+101,small_bboxes,A lizard,A lizard,"406,435,447,479",,,,,,
+102,small_bboxes,A sea,A sea,"38,430,160,480",,,,,,
+103,small_bboxes,A pine,A pine,"411,141,464,288",,,,,,
+104,small_bboxes,A snail and a wardrobe,A snail,"43,434,100,487",a wardrobe,"346,306,496,495",,,,
+105,small_bboxes,A rabbit and a tree,A rabbit,"54,428,101,470",a tree,"391,226,468,365",,,,
+106,small_bboxes,A table and a camel,A table,"42,403,116,470",a camel,"273,142,415,260",,,,
+107,small_bboxes,A chimpanzee and a hamster,A chimpanzee,"308,314,448,467",a hamster,"47,429,118,477",,,,
+108,small_bboxes,A mountain and a turtle,A mountain,"32,57,156,140",a turtle,"392,439,466,484",,,,
+109,small_bboxes,A kangaroo and a turtle,A kangaroo,"41,342,117,482",a turtle,"435,420,482,454",,,,
+110,small_bboxes,A tractor and a fish,A tractor,"360,209,454,316",a fish,"67,415,139,444",,,,
+111,small_bboxes,A bus and a pepper,A bus,"30,58,177,118",a pepper,"402,424,453,475",,,,
+112,small_bboxes,"A beetle, a crocodile and a leopard",A beetle,"48,441,116,488",a crocodile,"145,414,278,479",a leopard,"367,247,462,316",,
+113,small_bboxes,"A tulip, a clock and a bicycle",A tulip,"345,331,379,412",a clock,"43,59,97,106",a bicycle,"40,355,155,429",,
+114,small_bboxes,"A pine, a lamp and a cat",A pine,"18,105,71,195",a lamp,"383,354,421,456",a cat,"274,419,346,456",,
+115,small_bboxes,"A bus, an oak and an otter",A bus,"58,131,246,205",an oak,"351,51,429,205",an otter,"303,379,393,456",,
+116,small_bboxes,"A motorcycle, a bridge and a lobster",A motorcycle,"60,330,187,415",a bridge,"372,63,487,125",a lobster,"414,458,493,504",,
+117,small_bboxes,"A crocodile, a television and a camel",A crocodile,"40,381,182,461",a television,"378,94,479,188",a camel,"294,328,435,409",,
+118,small_bboxes,"A tulip, a dog and a trout",A tulip,"402,408,443,486",a dog,"282,265,394,357",a trout,"42,428,173,479",,
+119,small_bboxes,"A mushroom, a motorcycle and a boy",A mushroom,"226,414,293,481",a motorcycle,"261,132,449,230",a boy,"127,46,221,235",,
+120,small_bboxes,"A couch, a lion, a plate and a bear",A couch,"69,313,235,397",a lion,"274,416,474,486",a plate,"174,279,227,296",a bear,"367,252,466,382"
+121,small_bboxes,"An apple, a bridge, a house and a seal",An apple,"37,440,88,490",a bridge,"22,34,221,89",a house,"351,348,445,475",a seal,"157,188,302,244"
+122,small_bboxes,"An orchid, a wolf, a worm and a baby",An orchid,"34,361,63,468",a wolf,"366,407,489,472",a worm,"118,443,337,459",a baby,"199,114,262,224"
+123,small_bboxes,"A rocket, a sunflower, a lobster and a poppy",A rocket,"407,42,477,154",a sunflower,"414,381,467,494",a lobster,"20,426,109,463",a poppy,"346,377,389,497"
+124,small_bboxes,"A possum, a bed, a bus and a cat",A possum,"38,452,117,482",a bed,"137,406,299,477",a bus,"341,50,496,135",a cat,"215,357,296,397"
+125,small_bboxes,"A pine, a fish, a camel and a spider",A pine,"26,273,87,489",a fish,"445,455,497,491",a camel,"117,398,236,492",a spider,"113,319,143,360"
+126,small_bboxes,"A kangaroo, a wardrobe, a bee and a sunflower",A kangaroo,"33,373,90,463",a wardrobe,"398,309,497,492",a bee,"428,45,466,92",a sunflower,"215,400,263,491"
+127,small_bboxes,"A beetle, an orange, a dolphin and a lamp",A beetle,"213,465,344,492",an orange,"75,447,123,490",a dolphin,"33,259,293,336",a lamp,"338,158,416,366"
+128,color_binding,A green worm,A green worm,"79,339,470,477",,,,,,
+129,color_binding,A blue crocodile,A blue crocodile,"64,370,482,479",,,,,,
+130,color_binding,A purple tree,A purple tree,"101,70,432,469",,,,,,
+131,color_binding,A pink television,A pink television,"75,89,477,322",,,,,,
+132,color_binding,A black forest,A black forest,"23,44,487,478",,,,,,
+133,color_binding,A green fox,A green fox,"204,192,482,487",,,,,,
+134,color_binding,A purple poppy,A purple poppy,"266,56,477,488",,,,,,
+135,color_binding,A gray bed,A gray bed,"52,217,482,452",,,,,,
+136,color_binding,A red girl and a blue maple,A red girl,"93,257,243,462",a blue maple,"262,37,491,474",,,,
+137,color_binding,A purple wardrobe and a blue bowl ,A purple wardrobe,"32,81,355,460",a blue bowl,"373,324,490,458",,,,
+138,color_binding,A pink bus and a brown clock,A pink bus,"27,47,486,324",a brown clock,"304,373,486,477",,,,
+139,color_binding,A pink elephant and a red cat,A pink elephant,"27,109,324,428",a red cat,"355,256,484,431",,,,
+140,color_binding,A purple airplane and a white car,A purple airplane,"174,32,502,234",a white car,"50,275,490,486",,,,
+141,color_binding,An orange trout and a yellow train,An orange trout,"317,372,492,493",a yellow train,"22,85,499,345",,,,
+142,color_binding,A red bear and a green cat,A red bear,"36,98,238,455",a green cat,"284,183,451,285",,,,
+143,color_binding,A pink truck and a purple sunflower,A pink truck,"23,38,494,236",a purple sunflower,"159,293,258,469",,,,
+144,color_binding,"A yellow rabbit, a purple maple and a brown crocodile",A yellow rabbit,"37,268,150,451",a purple maple,"190,39,338,455",a brown crocodile,"366,276,496,493",,
+145,color_binding,"A white salmon, an orange tractor and a yellow wardrobe",A white salmon,"381,395,491,475",an orange tractor,"31,311,359,476",a yellow wardrobe,"48,27,489,285",,
+146,color_binding,"A gray bus, a brown apple and a white truck",A gray bus,"34,44,474,222",a brown apple,"41,381,130,473",a white truck,"181,265,476,485",,
+147,color_binding,"A green beetle, a black frog and a purple airplane",A green beetle,"29,400,168,484",a black frog,"247,392,386,491",a purple airplane,"36,23,484,284",,
+148,color_binding,"An orange palm, a purple train and a green wolf",An orange palm,"38,214,166,503",a purple train,"257,57,472,187",a green wolf,"205,373,302,490",,
+149,color_binding,"A white cloud, a yellow snake and a green cup",A white cloud,"290,57,492,188",a yellow snake,"40,386,288,464",a green cup,"347,357,424,485",,
+150,color_binding,"A pink pepper, a purple motorcycle and a white pear",A pink pepper,"380,388,455,487",a purple motorcycle,"43,100,423,287",a white pear,"265,379,345,486",,
+151,color_binding,"A green kangaroo, a pink bowl and a black hamster",A green kangaroo,"185,232,343,479",a pink bowl,"57,375,149,475",a black hamster,"390,380,492,481",,
+152,color_binding,"An orange possum, a purple salmon, a yellow tree and a white lion",An orange possum,"366,408,503,488",a purple salmon,"229,435,352,486",a yellow tree,"29,64,481,312",a white lion,"47,390,209,486"
+153,color_binding,"A red castle, a green bottle, an orange dinosaur and a yellow skyscraper",A red castle,"23,54,239,244",a green bottle,"22,347,117,491",an orange dinosaur,"132,272,255,493",a yellow skyscraper,"317,41,483,492"
+154,color_binding,"A blue maple, a pink cup, a brown camel and a gray lion",A blue maple,"29,39,224,390",a pink cup,"42,422,169,496",a brown camel,"261,312,474,476",a gray lion,"259,47,492,240"
+155,color_binding,"A red chair, a yellow dinosaur, a gray elephant and a white dog",A red chair,"41,319,209,467",a yellow dinosaur,"312,48,482,182",a gray elephant,"282,264,476,480",a white dog,"88,204,172,316"
+156,color_binding,"A red bear, a blue frog, a yellow pine and a white telephone",A red bear,"48,285,194,487",a blue frog,"101,50,270,183",a yellow pine,"341,53,503,393",a white telephone,"231,396,339,485"
+157,color_binding,"An orange can, a yellow tractor, a pink mouse and a gray wolf",An orange can,"205,348,284,466",a yellow tractor,"78,51,463,215",a pink mouse,"72,398,153,472",a gray wolf,"341,240,466,493"
+158,color_binding,"An orange tulip, a brown bridge, a green motorcycle and a black dog",An orange tulip,"24,47,70,120",a brown bridge,"28,306,488,490",a green motorcycle,"251,57,499,222",a black dog,"91,121,190,234"
+159,color_binding,"A pink salmon, a black maple, a purple bus, and an orange wardrobe",A pink salmon,"379,411,471,488",a black maple,"28,48,148,227",a purple bus,"218,49,486,237",an orange wardrobe,"58,280,343,485"
+160,open_binding,A green apple,A green apple,"118,93,432,403",,,,,,
+161,open_binding,A soft fish,A soft fish,"111,96,451,449",,,,,,
+162,open_binding,A small baby,A small baby,"55,53,300,357",,,,,,
+163,open_binding,A fuzzy bear,A fuzzy bear,"79,113,335,473",,,,,,
+164,open_binding,A wooden bed,A wooden bed,"28,126,485,423",,,,,,
+165,open_binding,A yellow bee,A yellow bee,"153,29,489,213",,,,,,
+166,open_binding,A shiny beetle,A shiny beetle,"35,36,475,245",,,,,,
+167,open_binding,A fast bicycle,A fast bicycle,"82,197,491,417",,,,,,
+168,open_binding,A red apple and a blue bottle,A red apple,"49,233,222,401",a blue bottle,"250,57,463,408",,,,
+169,open_binding,A tall boy and a short chair,A tall boy,"58,53,231,441",a short chair,"265,288,418,442",,,,
+170,open_binding,A round bowl and a soft chair,A round bowl,"43,374,201,457",a soft chair,"269,156,455,466",,,,
+171,open_binding,A wooden bridge and a crowded bus,A wooden bridge,"20,261,506,463",a crowded bus,"189,146,450,257",,,,
+172,open_binding,A happy frog and a fast lizard,A happy frog,"304,77,449,234",a fast lizard,"76,274,325,456",,,,
+173,open_binding,A soft cloud and a bright sunflower,A soft cloud,"53,26,314,166",a bright sunflower,"280,230,491,473",,,,
+174,open_binding,A fluffy cat and a smooth couch,A fluffy cat,"162,154,374,261",a smooth couch,"24,271,488,447",,,,
+175,open_binding,A green forest and a dark oak,A green forest,"24,37,303,373",a dark oak,"317,201,500,488",,,,
+176,open_binding,"An orange butterfly, a soft frog and an aggressive dinosaur",An orange butterfly,"354,40,488,132",a soft frog,"24,390,139,477",an aggressive dinosaur,"186,179,496,499",,
+177,open_binding,"A rotten pear, a rough mountain and a red mushroom",A rotten pear,"387,333,483,487",a rough mountain,"5,35,509,255",a red mushroom,"128,409,194,485",,
+178,open_binding,"A shiny rocket, a fast car and a fluffy couch",A shiny rocket,"335,49,490,459",a fast car,"34,87,307,208",a fluffy couch,"63,352,260,439",,
+179,open_binding,"A wooden table, a soft couch and a warm lamp",A wooden table,"11,152,237,279",a soft couch,"36,322,487,483",a warm lamp,"319,64,433,255",,
+180,open_binding,"A large elephant, a green caterpillar and a small mouse",A large elephant,"27,62,428,283",a green caterpillar,"51,371,196,464",a small mouse,"256,397,417,460",,
+181,open_binding,"A green frog, a tall sunflower and a yellow beetle",A green frog,"353,379,470,479",a tall sunflower,"22,56,150,487",a yellow beetle,"209,277,314,329",,
+182,open_binding,"A smooth clock, a red apple, and a soft chair",A smooth clock,"22,36,135,122",a red apple,"280,188,363,264",a soft chair,"209,268,417,494",,
+183,open_binding,"A silver truck, a blue sky and a soft cloud",A silver truck,"50,306,474,465",a blue sky,"10,10,476,138",a soft cloud,"337,157,488,227",,
+184,open_binding,"A soft cat, a wooden table, a snowy mountain and a fluffy dog ",A soft cat,"28,389,109,490",a wooden table,"125,325,368,484",a snowy mountain,"12,20,492,233",a fluffy dog,"389,372,491,483"
+185,open_binding,"A large tree, a green frog, a yellow butterfly and a pink orchid",A large tree,"24,55,260,477",a green frog,"284,409,360,482",a yellow butterfly,"396,27,496,122",a pink orchid,"404,250,471,484"
+186,open_binding,"A blue sky, a tall skyscraper, a round clock and a shiny bottle",A blue sky,"17,27,353,166",a tall skyscraper,"378,37,497,468",a round clock,"311,240,373,305",a shiny bottle,"187,331,251,475"
+187,open_binding,"A dark lamp, a rough sea, a soft bed and a clean cup",A dark lamp,"411,40,477,152",a rough sea,"20,273,480,474",a soft bed,"71,100,271,159",a clean cup,"322,78,385,157"
+188,open_binding,"A green forest, a large lion, a smooth rocket and a white cloud",A green forest,"25,251,359,477",a large lion,"381,338,501,489",a smooth rocket,"41,33,316,131",a white cloud,"349,39,500,125"
+189,open_binding,"A red apple, a shiny beetle, a round bowl and a soft couch",A red apple,"23,111,97,206",a shiny beetle,"127,162,249,210",a round bowl,"291,75,442,209",a soft couch,"36,265,476,470"
+190,open_binding,"A blue whale, a tall poppy, a black dog and a yellow flower",A blue whale,"298,28,499,238",a tall poppy,"35,242,106,466",a black dog,"186,345,446,456",a yellow flower,"18,36,139,168"
+191,open_binding,"A small frog, a green tree, a pink rose and a soft cloud",A small frog,"34,399,155,468",a green tree,"189,117,305,465",a pink rose,"327,349,452,466",a soft cloud,"39,29,468,114"
+192,complex_scene,An apple was shiny and red,A shiny and red apple,"72,101,370,392",,,,,,
+193,complex_scene,A fish swam swiftly through the clear water,A fish,"39,165,436,435",,,,,,
+194,complex_scene,"A baby laughed, reaching out for a toy",A baby,"42,63,319,378",,,,,,
+195,complex_scene,A bear lumbered through the dense forest,A bear,"86,271,384,425",,,,,,
+196,complex_scene,A bicycle leaned against the brick wall,A bicycle,"155,236,441,429",,,,,,
+197,complex_scene,A soft cloud floated gently across the sky,A soft cloud,"54,40,475,225",,,,,,
+198,complex_scene,A lamp illuminated the cozy room,A lamp,"279,82,471,482",,,,,,
+199,complex_scene,A tulip bloomed brightly in the garden,A tulip,"47,151,210,480",,,,,,
+200,complex_scene,A butterfly landed gently on the rose in the garden,A butterfly,"240,134,378,263",the rose,"156,185,284,476",,,,
+201,complex_scene,A boy rode his bicycle down the sunny road,A boy,"152,99,324,344",bicycle,"31,242,456,452",,,,
+202,complex_scene,A tiger watched a cow from the tall grass,A tiger,"22,171,175,461",a cow,"268,105,438,188",,,,
+203,complex_scene,A fox darted quickly across the open road,A fox,"175,235,278,370",the open road,"14,148,504,452",,,,
+204,complex_scene,A dolphin leapt gracefully beside the boat in the sea,A dolphin,"52,326,231,414",the sea,"1,175,511,505",,,,
+205,complex_scene,A hamster nibbled on a slice of juicy apple,A hamster,"67,303,217,455",a slice of juicy apple,"261,399,323,453",,,,
+206,complex_scene,A lamp sat beside the cozy couch in the living room,A lamp,"48,165,157,454",the cozy couch,"173,298,473,464",,,,
+207,complex_scene,A rocket soared past the fluffy cloud in the sky,A rocket,"176,79,321,469",the fluffy cloud,"26,194,468,322",,,,
+208,complex_scene,A baby giggled as a colorful butterfly fluttered near a sunflower,A baby,"52,183,228,448",a colorful butterfly,"314,236,384,310",a sunflower,"280,279,417,502",,
+209,complex_scene,A fish swam under the old bridge while a frog sat nearby,A fish,"25,71,496,335",the old bridge,"38,416,269,475",a frog,"330,364,385,415",,
+210,complex_scene,A quiet forest sheltered a towering oak tree and a small mushroom,A quiet forest,"16,34,491,483",a towering oak tree,"52,80,272,434",a small mushroom,"395,295,436,360",,
+211,complex_scene,A bright lamp sat on the wooden table beside the ringing telephone,A bright lamp,"39,101,192,322",the wooden table,"24,210,476,450",the ringing telephone,"229,178,360,252",,
+212,complex_scene,"A dolphin leapt out of the clear sea, startling a nearby shark",A dolphin,"67,160,260,278",the clear sea,"19,217,503,494",a shark,"174,306,477,468",,
+213,complex_scene,A girl held a shiny apple while sitting on a cozy couch,A girl,"114,130,346,441",a shiny apple,"251,225,300,297",a cozy couch,"37,262,476,478",,
+214,complex_scene,A bear watched as a butterfly fluttered over a blooming rose,A bear,"41,49,277,489",a butterfly,"385,170,431,225",a blooming rose,"343,212,410,343",,
+215,complex_scene,A small mouse darted under the table carrying a crumb from the plate,A small mouse,"320,403,449,468",the table,"18,162,489,491",the plate,"86,421,238,466",,
+216,complex_scene,A butterfly landed on a flower as a bee buzzed around the bowl,A butterfly,"330,126,421,240",a flower,"294,222,437,495",a bee,"127,218,162,264",the bowl,"27,289,261,366"
+217,complex_scene,A dinosaur roared beside a mountain while a fox ran through the forest,A dinosaur,"33,74,192,407",a mountain,"23,21,482,218",a fox,"277,366,386,432",the forest,"9,228,499,480"
+218,complex_scene,A girl ate an apple as a cat slept on the couch,A girl,"36,148,191,471",an apple,"126,262,166,315",a cat,"275,247,438,348",the couch,"214,295,501,471"
+219,complex_scene,A bee flew over the sunflower near the old oak tree and a dog,A bee,"327,158,372,204",the sunflower,"309,228,403,497",the old oak tree,"29,26,265,481",a dog,"184,423,305,492"
+220,complex_scene,A boy rode his bicycle past a caterpillar and a blooming orchid,A boy,"48,170,212,423",a bicycle,"9,292,319,491",a caterpillar,"347,444,472,486",a blooming orchid,"342,57,425,214"
+221,complex_scene,"A beaver swam beside the bridge, while a fox darted through the forest",A beaver,"29,341,129,440",the bridge,"17,46,249,334",a fox,"316,402,430,463",the forest,"187,22,492,489"
+222,complex_scene,A baby smiled as a butterfly flew near the tree by the house,A baby,"50,335,136,459",a butterfly,"142,250,173,290",the tree,"38,88,201,484",the house,"231,13,502,500"
+223,complex_scene,"A man sat on the couch, drinking from a cup while a lamp lit the room",A man,"52,120,181,368",the couch,"8,221,319,449",a cup,"123,207,169,263",a lamp,"328,71,483,472"
