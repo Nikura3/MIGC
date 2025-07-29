@@ -53,9 +53,9 @@ The .csv file containing the prompts should be inside a folder named `prompts` t
 Each row in the CSV defines a single generation sample and includes:
 
 - a full prompt (used as global context),
-- up to 4 objects with corresponding bounding boxes and local phrases.
+- objects with corresponding bounding boxes and local phrases.
 
-The expected column format is:
+The expected column format is (no limit in the number of objects):
 `id,prompt,obj1,bbox1,obj2,bbox2,obj3,bbox3,obj4,bbox4`
 
 To run the image generation from that prompt list, use the following command:
